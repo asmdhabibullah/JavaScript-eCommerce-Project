@@ -1,1 +1,1 @@
-# JavaScript-eCommerce-Project
+# JavaScript-Boilerplate
